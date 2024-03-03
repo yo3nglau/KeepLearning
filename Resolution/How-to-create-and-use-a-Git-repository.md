@@ -1,4 +1,4 @@
-## Resolution: How to create and use a repository
+## Resolution: How to create and use a Git repository
 
 ### Create a new repository
 
