@@ -12,9 +12,7 @@
 
 ---
 
-<br>
-
 ## Resolution
 
-[How to create and use a Git repository](/Resolution/How-to-create-and-use-a-Git-repository.md)
+- [How to create and use a Git repository](/Resolution/How-to-create-and-use-a-Git-repository.md)
 
