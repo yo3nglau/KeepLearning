@@ -1,4 +1,4 @@
-<p style="text-align:center">
+<p align="center">
 	Enjoy learning new knowledge.
 </p>
 
