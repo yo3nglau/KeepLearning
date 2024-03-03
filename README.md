@@ -22,5 +22,5 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for ad
 
 ### Contact
 
-If you have any questions, please create an issue or contact the [Email](yo3nglau@gmail.com).
+If you have any questions, please create an issue or contact the Email: yo3nglau@gmail.com.
 
