@@ -12,4 +12,5 @@
 
 ## Resolution
 
-[How to create and use a repository](Resolution/How to create and use a repository.md)
+[How to create and use a repository](/Resolution/How to create and use a repository.md)
+
