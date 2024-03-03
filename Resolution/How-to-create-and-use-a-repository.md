@@ -1,6 +1,6 @@
-## Resolution
+## Resolution: How to create and use a repository
 
-### Crate a new repository
+### Create a new repository
 
 #### Step 1
 
