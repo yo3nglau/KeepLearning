@@ -1,2 +1,3 @@
 # KeepLearning
-enjoy learning new knowledge
+This repository aims to keep track of ordinarily learned knowledge.
+
