@@ -1,3 +1,9 @@
-# KeepLearning
-This repository aims to keep track of ordinarily learned knowledge.
+<p style="text-align:center">
+	Enjoy learning new knowledge.
+</p>
 
+
+
+## Contents
+
+TODO
