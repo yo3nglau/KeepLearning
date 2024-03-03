@@ -8,7 +8,11 @@
 
 - [Resolution](#Resolution)
 
+<br>
 
+---
+
+<br>
 
 ## Resolution
 
