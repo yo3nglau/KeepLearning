@@ -1,8 +1,6 @@
 ## Resolution
 
-
-
-### Create a new repository
+### Crate a new repository
 
 #### Step 1
 
@@ -21,8 +19,6 @@ Initialize the repository with a `README` file (recommended).
 Choose a license for the repository (recommended).
 
 Click the `Create repository` button to complete.
-
-
 
 ### Update contents for the created repository
 
