@@ -26,4 +26,3 @@ ls -lR | grep "^d" | wc -l
 
 ## Specification
 
-[du command](/Guide/[Linux]-du.md)
