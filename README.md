@@ -5,6 +5,7 @@
 ## Contents
 
 - [Resolution](#Resolution)
+- [Recommendation](#Recommendation)
 - [Guide](#Guide)
 
 <br>
