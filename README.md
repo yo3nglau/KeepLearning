@@ -20,6 +20,10 @@
 - [How to count files or directories on Linux](/Resolution/How-to-count-files-or-directories-on-Linux.md)
 - [How to alter dict key in Python](/Resolution/How-to-alter-dict-key-in-Python.md)
 
+## Recommendation
+
+- [Do not remove specific commits in Git](/Recommendation/Do-not-remove-specific-commit-in-Git.md)
+
 ## Guide
 
 - [Linux command guide](/Guide/Linux-command-guide.md)
