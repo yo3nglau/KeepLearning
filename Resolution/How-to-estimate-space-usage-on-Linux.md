@@ -4,16 +4,8 @@
 
 Estimate the **total** space usage for the current (targeted) directory.
 
-#### Resolution 1
-
 ```python
-du -sh
-```
-
-#### Resolution 2
-
-```python
-du PATH_OF_TARGETS -h
+du -sh (optional PATH_OF_TARGETS, ./ by default)
 ```
 
 ### Application 2
