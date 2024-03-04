@@ -21,7 +21,7 @@
 
 ## Guide
 
-- [(Linux) du](Linux-du.md)
+- [(Linux) du](/Guide/Linux-du.md)
 
 <br>
 
