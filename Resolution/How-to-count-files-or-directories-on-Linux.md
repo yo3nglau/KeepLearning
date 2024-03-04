@@ -24,5 +24,10 @@ ls -lR | grep "^d" | wc -l
 
 <br>
 
-## Specification
+## Reference
 
+[(Linux) ls](/Guide/Linux-ls.md)
+
+[(Linux) grep](/Guide/Linux-grep.md)
+
+[(Linux) wc](/Guide/Linux-wc.md)

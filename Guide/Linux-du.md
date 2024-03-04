@@ -8,6 +8,8 @@ du - estimate file space usage
 
 ### Description
 
+#### Frequently used
+
 ```python
 Suumarize disk usage of the set of FILEs, recursively for directories.
 
@@ -18,4 +20,3 @@ Suumarize disk usage of the set of FILEs, recursively for directories.
 -s, --summarize
               display only a total for each argument
 ```
-
