@@ -26,8 +26,8 @@ ls -lR | grep "^d" | wc -l
 
 ## Reference
 
-[(Linux) ls](/Guide/Linux-ls.md)
+[(Linux) ls](/Guide/Linux/Linux-ls.md)
 
-[(Linux) grep](/Guide/Linux-grep.md)
+[(Linux) grep](/Guide/Linux/Linux-grep.md)
 
-[(Linux) wc](/Guide/Linux-wc.md)
+[(Linux) wc](/Guide/Linux/Linux-wc.md)

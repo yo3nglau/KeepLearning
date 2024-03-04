@@ -27,11 +27,11 @@
 
 ## Guide
 
-- [Linux command guide](/Guide/Linux-command-guide.md)
-- [(Linux) ls](/Guide/Linux-ls.md)
-- [(Linux) du](/Guide/Linux-du.md)
-- [(Linux) grep](/Guide/Linux-grep.md)
-- [(Linux) wc](/Guide/Linux-wc.md)
+- [Linux command guide](/Guide/Linux/Linux-command-guide.md)
+- [(Linux) ls](/Guide/Linux/Linux-ls.md)
+- [(Linux) du](/Guide/Linux/Linux-du.md)
+- [(Linux) grep](/Guide/Linux/Linux-grep.md)
+- [(Linux) wc](/Guide/Linux/Linux-wc.md)
 
 <br>
 

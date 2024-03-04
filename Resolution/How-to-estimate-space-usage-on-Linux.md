@@ -28,4 +28,4 @@ du -ah
 
 ## Reference
 
-[(Linux) du](/Guide/Linux-du.md)
+[(Linux) du](/Guide/Linux/Linux-du.md)
