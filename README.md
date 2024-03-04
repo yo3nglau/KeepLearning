@@ -13,7 +13,7 @@
 ## Resolution
 
 - [How to create and use a Git repository](/Resolution/How-to-create-and-use-a-Git-repository.md)
-- [How to center contents using HTML in GitHub Markdown](/Resolution/How-to-create-and-use-a-Git-repository.md)
+- [How to center contents using HTML in GitHub Markdown](/Resolution/How-to-center-contents-using-HTML-in-GitHub-Markdown.md)
 
 <br>
 
