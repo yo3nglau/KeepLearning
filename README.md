@@ -21,7 +21,11 @@
 
 ## Guide
 
+- [Linux command guide](/Guide/Linux-command-guide.md)
+- [(Linux) ls](/Guide/Linux-ls.md)
 - [(Linux) du](/Guide/Linux-du.md)
+- [(Linux) grep](/Guide/Linux-grep.md)
+- [(Linux) wc](/Guide/Linux-wc.md)
 
 <br>
 
