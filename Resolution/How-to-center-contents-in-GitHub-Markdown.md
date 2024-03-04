@@ -1,6 +1,6 @@
-## Resolution: How to center contents using HTML in GitHub Markdown
+## Resolution: How to center contents in GitHub Markdown
 
-### Paragraph tag
+### Paragraph tag of HTML
 
 #### Step 1
 
@@ -21,3 +21,4 @@ Use the align attribute to set the align method.
 <p align="center">
 	Enjoy learning new knowledge.
 </p>
+
