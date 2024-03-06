@@ -7,6 +7,9 @@
 - [Resolution](#Resolution)
 - [Recommendation](#Recommendation)
 - [Guide](#Guide)
+  - [Linux](#Guide#Linux)
+  - Pandas
+
 
 <br>
 
@@ -26,6 +29,8 @@
 - [Do not remove specific commits in Git](/Recommendation/Do-not-remove-specific-commit-in-Git.md)
 
 ## Guide
+
+### Linux
 
 - [Linux command guide](/Guide/Linux/Linux-command-guide.md)
 - [(Linux) ls](/Guide/Linux/Linux-ls.md)
