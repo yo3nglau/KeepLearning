@@ -21,4 +21,3 @@ Use the align attribute to set the align method.
 <p align="center">
 	Enjoy learning new knowledge.
 </p>
-

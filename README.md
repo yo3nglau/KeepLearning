@@ -18,8 +18,9 @@
 ## Resolution
 
 - [How to create and use a Git repository](/Resolution/How-to-create-and-use-a-Git-repository.md)
-- [How to center contents using HTML in GitHub Markdown](/Resolution/How-to-center-contents-using-HTML-in-GitHub-Markdown.md)
+- [How to center contents in GitHub Markdown](/Resolution/How-to-center-contents-in-GitHub-Markdown.md)
 - [How to use Emoji in GitHub Markdown](/Resolution/How-to-use-Emoji-in-GitHub-Markdown.md)
+- [How to set jumping links in GitHub Markdown](/Resolution/How-to-set-jumping-links-in-GitHub-Markdown.md)
 - [How to estimate space usage on Linux](/Resolution/How-to-estimate-space-usage-on-Linux.md)
 - [How to count files or directories on Linux](/Resolution/How-to-count-files-or-directories-on-Linux.md)
 - [How to alter dict key in Python](/Resolution/How-to-alter-dict-key-in-Python.md)
