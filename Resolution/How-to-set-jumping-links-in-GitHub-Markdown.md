@@ -36,7 +36,11 @@ The contents below simulate a realistic format, as expected.
 
 <br>
 
-Several empty lines assure apparent responses. (just for illustration)
+<br>
+
+*Several empty lines assure apparent responses. (just for illustration)*
+
+<br>
 
 <br>
 
