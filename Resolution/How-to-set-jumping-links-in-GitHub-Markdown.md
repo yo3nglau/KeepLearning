@@ -32,7 +32,7 @@ The contents below simulate a realistic format, as expected.
     - [Abstract from Douban](#Abstract-from-Douban)
 ```
 
-**Note:** `Ctrl` + `left_click` will bring you a smooth trip.
+**Note:** `Ctrl` + `left_click` will bring you a smooth trip if you are using Markdown editor like Typora.
 
 <br>
 
