@@ -76,8 +76,6 @@ As far as I am concerned, the plots therein are much better than introduced. It 
 
 ---
 
-<br>
-
 ### Scenario 2: Inter-file
 
 The trip between files in the repository (project) starts with the root directory, staying with other tips as mentioned above.
