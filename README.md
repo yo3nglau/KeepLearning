@@ -7,8 +7,8 @@
 - [Resolution](#Resolution)
 - [Recommendation](#Recommendation)
 - [Guide](#Guide)
-  - [Linux](#Guide##Linux)
-  - Pandas
+  - [Linux](#Linux)
+  - [Pandas](#Pandas)
 
 
 <br>
@@ -37,6 +37,8 @@
 - [(Linux) du](/Guide/Linux/Linux-du.md)
 - [(Linux) grep](/Guide/Linux/Linux-grep.md)
 - [(Linux) wc](/Guide/Linux/Linux-wc.md)
+
+### Pandas
 
 <br>
 
