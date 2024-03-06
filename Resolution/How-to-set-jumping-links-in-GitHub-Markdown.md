@@ -1,5 +1,7 @@
 ## Resolution: How to set jumping links in GitHub Markdown
 
+### Scenario 1: Intra-file
+
 You can link headings simply as follows:
 
 ```python
@@ -38,11 +40,7 @@ The contents below simulate a realistic format, as expected.
 
 <br>
 
-<br>
-
 *Several empty lines assure apparent responses. (just for illustration)*
-
-<br>
 
 <br>
 
@@ -73,3 +71,26 @@ The contents below simulate a realistic format, as expected.
 <br>
 
 As far as I am concerned, the plots therein are much better than introduced. It is exciting and worth watching.
+
+<br>
+
+---
+
+<br>
+
+### Scenario 2: Inter-file
+
+The trip between files in the repository (project) starts with the root directory, staying with other tips as mentioned above.
+
+```python
+# Trip to a specific directory
+[Description](/directory)
+# Trip to a specific file in the root directory
+[Description](/file)
+# Trip to a specific file NOT in the root directory
+[Description](/directory/file)
+# Trip to a specific heading of a file (two cases as mentioned above)
+[Description](/file/#NAME-OF-HEADING)
+[Description](/directory/file/#NAME-OF-HEADING)
+```
+
