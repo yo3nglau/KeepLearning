@@ -10,7 +10,7 @@ You can link headings simply as follows:
 
 **Note:** if the name of the heading has more than one word, join words with `-` (which is essential).
 
-### Example
+#### Example
 
 The contents below simulate a realistic format, as expected.
 
@@ -92,5 +92,13 @@ The trip between files in the repository (project) starts with the root director
 # Trip to a specific heading of a file (two cases as mentioned above)
 [Description](/file/#NAME-OF-HEADING)
 [Description](/directory/file/#NAME-OF-HEADING)
+```
+
+#### Example
+
+Assume that you intend to brose `README.md` of the repository (click this [portal](/README.md)):
+
+```python
+[portal](/README.md)
 ```
 
