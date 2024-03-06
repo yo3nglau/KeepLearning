@@ -35,4 +35,4 @@ The contents below simulate a realistic format, as expected.
 
 > Shining Watermelon (Sparkling Watermelon) will tell the story of a boy living a double life between a model student and a band member who gets to time slip and meets his 18-year-old father. The two will build friendships there.
 
-As far as I am concerned, the plots therein are much better than introduced. It is an exciting art and worth watching.
+As far as I am concerned, the plots therein are much better than introduced. It is exciting and worth watching.
