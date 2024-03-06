@@ -7,7 +7,7 @@
 - [Resolution](#Resolution)
 - [Recommendation](#Recommendation)
 - [Guide](#Guide)
-  - [Linux](#Guide#Linux)
+  - [Linux](#Guide##Linux)
   - Pandas
 
 
