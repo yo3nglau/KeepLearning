@@ -29,6 +29,18 @@ The contents below simulate a realistic format, as expected.
 
 <br>
 
+<br>
+
+<br>
+
+Several empty lines assure apparent responses. (just for illustration)
+
+<br>
+
+<br>
+
+<br>
+
 ## Shining Watermelon
 
 ### Introduction from IMDb
