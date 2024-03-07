@@ -18,6 +18,7 @@
 ## Resolution
 
 - [How to create and use a Git repository](/Resolution/How-to-create-and-use-a-Git-repository.md)
+- [How to rename a branch in GitHub](/Resolution/How-to-rename-a-branch-in-GitHub.md)
 - [How to center contents in GitHub Markdown](/Resolution/How-to-center-contents-in-GitHub-Markdown.md)
 - [How to use Emoji in GitHub Markdown](/Resolution/How-to-use-Emoji-in-GitHub-Markdown.md)
 - [How to set jumping links in GitHub Markdown](/Resolution/How-to-set-jumping-links-in-GitHub-Markdown.md)
