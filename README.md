@@ -26,6 +26,7 @@
 - [How to alter dict key in Python](/Resolution/How-to-alter-dict-key-in-Python.md)
 - [How to control sweep of W&B](/Resolution/How-to-control-sweep-of-W&B.md)
 - [How to configure conda channels](/Resolution/How-to-configure-conda-channels.md)
+- [How to run scripts in background](/Resolution/How-to-run-scripts-in-background.md)
 
 ## Recommendation
 
