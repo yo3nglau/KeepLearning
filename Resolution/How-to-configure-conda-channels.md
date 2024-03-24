@@ -6,6 +6,15 @@ You can show current conda channels with:
 conda config --show channels
 ```
 
+You can quickly add/remove particular channels with:
+
+```python
+conda config --add channels MIRROR_URL
+conda config --remove channels MIRROR_URL
+```
+
+However, it is neither efficient nor versatile; the recommended resolution is configuring the `.condarc` file, as illustrated below.
+
 ### For regular/personal users
 
 Configure the `.condarc` file exactly under the user directory, e.g., `/home/ABC`; if it does not exist, first input with the CLI:
@@ -22,7 +31,7 @@ Configure the `.condarc` file exactly under the installation directory; if it do
 
 Then, modify the content with the expected mirrors (you can refer to the section of `Recommended mirrors` below). By doing so, you can allow all users on the machine to benefit from this configuration.
 
-### Recommended mirrors
+## Recommended mirrors
 
 ```python
 channels:
