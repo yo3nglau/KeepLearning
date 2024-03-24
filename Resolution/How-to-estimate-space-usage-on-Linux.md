@@ -8,6 +8,12 @@ Estimate the **total** space usage for the current (targeted) directory.
 du -sh (optional PATH_OF_TARGETS, ./ by default)
 ```
 
+If you prefer a sorted list:
+
+```python
+du -sh * | sort -rh
+```
+
 ### Application 2
 
 Estimate space usage of **every directory recursively** in the current directory.
