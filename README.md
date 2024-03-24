@@ -10,7 +10,6 @@
   - [Linux](#Linux)
   - [Pandas](#Pandas)
 
-
 <br>
 
 ---
@@ -26,6 +25,7 @@
 - [How to count files or directories on Linux](/Resolution/How-to-count-files-or-directories-on-Linux.md)
 - [How to alter dict key in Python](/Resolution/How-to-alter-dict-key-in-Python.md)
 - [How to control sweep of W&B](/Resolution/How-to-control-sweep-of-W&B.md)
+- [How to configure conda channels](/Resolution/How-to-configure-conda-channels.md)
 
 ## Recommendation
 
