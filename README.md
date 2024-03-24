@@ -31,8 +31,8 @@
 ## Recommendation
 
 - [Do not remove specific commits in Git](/Recommendation/Do-not-remove-specific-commit-in-Git.md)
-- [Reinstall conda instead of migration](/Recommendation/Reinstall-conda-instead-of-migration.md)
 - [Cruel to remove contributors in GitHub](/Recommendation/Cruel-to-remove-contributors-in-GitHub.md)
+- [Reinstall conda instead of migration](/Recommendation/Reinstall-conda-instead-of-migration.md)
 
 ## Guide
 
