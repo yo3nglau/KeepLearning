@@ -59,7 +59,7 @@ chgrp -R conda /MAIN/.cache
 
 This setting will allow users to add or use cache files for `pip`, `torch`, etc.
 
-Finally, configure the `.condarc` file exactly under the `/ANACONDA/INSTALLATION/DIRECTORY` (if it does not exist, `touch` one) with two alternatives:
+Configure the `.condarc` file exactly under the `/ANACONDA/INSTALLATION/DIRECTORY` (if it does not exist, `touch` one) with two alternatives:
 
 - Allow users to create virtual environments in the shared directory
 
@@ -73,5 +73,12 @@ envs_dirs:
 ```python
 envs_dirs:
   - ~/.conda/envs
+```
+
+Finally, add users that can use the shard directory or create new virtual environments:
+
+```python
+# `conda` is the name of created group
+adduser USERNAME conda
 ```
 
