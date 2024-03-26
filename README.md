@@ -28,6 +28,7 @@
 - [How to configure conda channels](/Resolution/How-to-configure-conda-channels.md)
 - [How to run scripts in background](/Resolution/How-to-run-scripts-in-background.md)
 - [How to configure conda for all users on Linux](/Resolution/How-to-configure-conda-for-all-users-on-Linux.md)
+- [How to set cache location of the pip and torch](/Resolution/How-to-set-cache-location-of-pip-and-torch.md)
 
 ## Recommendation
 
