@@ -61,6 +61,9 @@ Edit contents locally (typically like `cd KeepLearning`).
 Upload updated contents online with [git init](https://git-scm.com/docs/git-init), [git add](https://git-scm.com/docs/git-add), [git commit](https://git-scm.com/docs/git-commit), and [git push](https://git-scm.com/docs/git-push):
 
 ```bash
+# Set committer profile of name and email (be same as ones in github)
+git config --global user.name "yo3nglau"
+git config --global user.email yo3nglau@gmail.com
 # Create an empty Git repository or reinitialize an existing one (one-off)
 git init
 # Add file contents to the index
