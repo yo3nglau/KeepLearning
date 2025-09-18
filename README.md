@@ -1,5 +1,5 @@
 <p align="center">
-	&#128536; Enjoy learning new knowledge. &#128536;
+	Enjoy learning new knowledge. &#128536;
 </p>
 
 
