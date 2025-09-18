@@ -51,7 +51,10 @@ git clone https://github.com/yo3nglau/KeepLearning.git
 Access the remote repository with the generated personal access token:
 
 ```bash
-git remote set-url origin https://PersonalAccessToken/n@github.com/yo3nglau/KeepLearning.git
+# Replace <Token> with the generated token
+git remote set-url origin https://<Token>/n@github.com/yo3nglau/KeepLearning.git
+# List the current remotes for the repository
+git remote -v
 ```
 
 #### 3. Upload updated contents
@@ -68,6 +71,8 @@ git config --global user.email yo3nglau@gmail.com
 git init
 # Add file contents to the index
 git add .
+# Show the state of the working directory and staging area
+git status
 # Record changes to the repository
 git commit -m "necessary specification of this update"
 # Update remote refs along with associated objects
